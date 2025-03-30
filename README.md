@@ -26,8 +26,8 @@ The Flutter To-Do App is a simple yet powerful task management application built
 1. **Clone the repository**:
 
    ```bash
-   git clone <https://github.com/ZakiOmer22/to_do_app.git>
-   cd <to_do_app>
+   git clone https://github.com/ZakiOmer22/to_do_app.git
+   cd to_do_app
    ```
 
 2. **Get the dependencies**:
